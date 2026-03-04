@@ -55,7 +55,7 @@ Example results:
 
 ## Visualization
 
-## 📊 Visualizations
+## Visualizations
 
 The project includes several visualizations to explore customer behavior and sales dynamics.
 
