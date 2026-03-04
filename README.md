@@ -82,3 +82,34 @@ Histogram showing how many orders customers typically place, helping identify on
 - Seaborn
 - Matplotlib
 - Google Colab
+
+---
+
+## Key Insights
+
+Based on the cohort analysis and exploratory data analysis, several patterns in customer behavior were identified:
+
+**Customer retention**
+
+- Around **20–25% of customers return** after their first purchase in subsequent months.
+- The majority of customers make **only a single purchase**, which is typical for many e-commerce businesses.
+
+**Customer purchasing behavior**
+
+- The purchase frequency distribution shows that most customers place **1–2 orders**, while a smaller group of loyal customers generates multiple purchases.
+
+**Revenue dynamics**
+
+- Monthly revenue analysis reveals fluctuations in sales over time, indicating possible **seasonal patterns** in purchasing behavior.
+
+**Geographic sales distribution**
+
+- A small number of countries contribute the majority of revenue, suggesting **geographic concentration of demand**.
+
+---
+
+## Business Implications
+
+- Improving **customer retention** could significantly increase long-term revenue.
+- Marketing strategies could focus on converting **first-time buyers into repeat customers**.
+- Cohort analysis helps identify **high-value customer segments and seasonal trends**.
